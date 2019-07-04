@@ -7,7 +7,10 @@
 //
 
 import Foundation
-let array = [5,5,5,5,20,20,5,5,20,5]
-print(Base.lemonadeChange(array))
-print(Base.transpose([[1,2,3],[4,5,6],[7,8,9]]))
+
+//let results = day01.findTwoSum2(sums, target)
+
+
+day01.findMiddleNum()
+
 
